@@ -1,0 +1,6 @@
+{
+  "name": "GameScope",
+  "description": "Next-generation gaming media, discovery, rankings, and editorial news portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
